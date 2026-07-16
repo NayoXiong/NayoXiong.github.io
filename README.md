@@ -27,8 +27,6 @@ Live at: **https://nayoxiong.github.io**
 | `assets/profile.jpg` | Header photo |
 | `assets/favicon.svg` | Little "JX" icon shown in the browser tab |
 
-> Not part of the website: `CV.pdf`, `headshot.jpg` (the original large photo),
-> and the `.claude/` folder. These do **not** need to be uploaded.
 
 ## How to update the site later
 
@@ -41,6 +39,4 @@ Live at: **https://nayoxiong.github.io**
 
 ## Notes
 
-- The phone number and email from the CV are intentionally **not** shown, to avoid
-  publishing personal contact details on a public, searchable page.
-- Publication links go to their DOIs. All content is taken from the CV.
+
